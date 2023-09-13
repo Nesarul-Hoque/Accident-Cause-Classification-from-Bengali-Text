@@ -1,7 +1,17 @@
 # Accident Cause from Bengali Text (ACBT) Corpus
-Population density is strongly proportional to the rate of accidents. As a highly populated country, the accidental death is inreasing day-by-day in Bangladesh. Various online news portals, such as Prothom Alo and The Daily Ittefaq in this country, represent an established and credible source for accident-related news dissemination. However, accidental news is not divided into more specific classes in those news portals. Therefore, the reader faces difficulty with which type of accident-related news she/he wants to read. Additionally, getting statistical information from the manual classification system about various types of accidents is a laborious job. Moreover, an automated classification system may help the government or other voluntary organizations to provide consciousness about the major types of accidents. In these regards, we have introduced a pioneer ACBT dataset for identifying accident causes with eleven classes from the Bengali text data.
-Tables:
-|Class|_samples_|words|vocab|minWord|maxWord|avg|
+Population density is strongly proportional to the rate of accidents. As a highly populated country, the accidental death is inreasing day-by-day in Bangladesh. Various online news portals, such as Prothom Alo and The Daily Ittefaq in this country, represent an established and credible source for accident-related news dissemination. However, accidental news is not divided into more specific classes in those news portals. Therefore, the reader faces difficulty with which type of accident-related news she/he wants to read. Additionally, getting statistical information from the manual classification system about various types of accidents is a laborious job. Moreover, an automated classification system may help the government or other voluntary organizations to provide consciousness about the major types of accidents. In these regards, we have introduced a pioneer ACBT dataset for identifying accident causes with eleven classes from the Bengali text data. We have shown the statistical information about the samples of the dataset as follows, where _samples_ indicates the number of samples, _words_ presents the number of words, _vocab_ is the vocabulary size, _minWord_ represents minimum number of words in a sample, _maxWord_ is the maximum number of words in a sample, and _avg_ is the average number of words in a sample.
+
+|Class|_samples_|_words_|_vocab_|_minWord_|_maxWord_|_avg_|
 |-------|-------|-------|-------|-------|-------|-------|
-|1|2|3|4|5|6|7|
-|1|2|3|4|5|6|7|
+|Non-accidental|1099|38298|12657|528|3|34.848|
+|Traffic|641|14428|3167|62|4|22.508|
+|Collapse of Object|89|1662|774|53|4|18.674|
+|Drown|92|1936|718|36|6|21.043|
+|Train Accident|181|3438|1067|71|5|18.994|
+|Fires and/or Explosion|214|3766|1580|47|3|17.598|
+|Electrocution|193|2886|997|50|3|14.953|
+|Intentional|228|5995|2339|86|4|26.293|
+|Natural Disaster|88|1787|893|48|4|20.306|
+|Struck by Falling Object|120|1601|560|45|5|13.341|
+|Others|103|946|517|26|4|9.184|
+|**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178|
