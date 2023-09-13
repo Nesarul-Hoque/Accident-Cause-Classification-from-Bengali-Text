@@ -3,4 +3,5 @@ Population density is strongly proportional to the rate of accidents. As a highl
 Tables:
 |col1|col2|
 |--|--|
-|One|Two
+|One|Two|
+|3|4|
