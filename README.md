@@ -14,4 +14,4 @@ Population density is strongly proportional to the rate of accidents. As a highl
 |Natural Disaster|88|1787|893|48|4|20.306|
 |Struck by Falling Object|120|1601|560|45|5|13.341|
 |Others|103|946|517|26|4|9.184|
-|**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178|
+|**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178**|
