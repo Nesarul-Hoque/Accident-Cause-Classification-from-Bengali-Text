@@ -23,8 +23,6 @@ We have shown the statistical information about the samples of the dataset as fo
 |Others|103|946|517|26|4|9.184|
 |**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178**|
 
-|A|B|C|
-|---|---|
-|1|1|
-|---|---|---|
-|2|2|2|
+| One    | Two | Three | Four    | Five  | Six 
+| -
+| Span <td colspan=3>triple  <td colspan=2>double
