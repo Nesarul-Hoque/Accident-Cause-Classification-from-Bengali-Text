@@ -24,6 +24,7 @@ We have shown the statistical information about the samples of the dataset as fo
 |**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178**|
 
 |A|B|C|
-|---|---|---|
+|---|---|
 |1|1|
+|---|---|---|
 |2|2|2|
