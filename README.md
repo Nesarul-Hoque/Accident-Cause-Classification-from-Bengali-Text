@@ -4,6 +4,7 @@ Population density is strongly proportional to the rate of accidents. As a highl
 ### Task Formulation
 The ACBT is divided into two levels using a hierarchical annotation schema: (A) Detect the text whether it is accidental or not (B) If the text is accidental then identify the cause of an accident. We formulate our problem into two subtasks namely, Sub-task A which is a binary classification (detect whether the text is accidental or not), and Sub-task B which is a multiclass classification (identify the cause of an accident).
 
+### Data Statistics
 We have shown the statistical information about the samples of the dataset as follows, where _samples_ indicates the number of samples, _words_ presents the number of words, _vocab_ is the vocabulary size, _minWord_ represents minimum number of words in a sample, _maxWord_ is the maximum number of words in a sample, and _avg_ is the average number of words in a sample.
 
 |Class|_samples_|_words_|_vocab_|_minWord_|_maxWord_|_avg_|
@@ -21,3 +22,8 @@ We have shown the statistical information about the samples of the dataset as fo
 |Struck by Falling Object|120|1601|560|45|5|13.341|
 |Others|103|946|517|26|4|9.184|
 |**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178**|
+
+|A|B|C|
+|---|---|---|
+|1|1|1|
+|2|2|2|
