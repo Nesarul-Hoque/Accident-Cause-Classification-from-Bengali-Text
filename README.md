@@ -25,5 +25,5 @@ We have shown the statistical information about the samples of the dataset as fo
 
 |A|B|C|
 |---|---|---|
-|1|1|1|
+|1|1|
 |2|2|2|
