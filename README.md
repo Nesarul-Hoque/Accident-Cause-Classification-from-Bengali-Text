@@ -8,7 +8,7 @@ We have shown the statistical information about the samples of the dataset as fo
 
 |Class|_samples_|_words_|_vocab_|_minWord_|_maxWord_|_avg_|
 |-------|-------|-------|-------|-------|-------|-------|
-|>|>|>|>|>|>|**Sub-task A**|
+|>|>|>|>|>||**Sub-task A**|
 |Non-accidental|1099|38298|12657|528|3|34.848|
 |Traffic|641|14428|3167|62|4|22.508|
 |Collapse of Object|89|1662|774|53|4|18.674|
