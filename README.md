@@ -23,20 +23,7 @@ We have shown the statistical information about the samples of the dataset as fo
 |Others|103|946|517|26|4|9.184|
 |**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178**|
 
-<table>
-  <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
-</table>
-
-| One     | Two        | Three   | Four          | 
-| ------------- |-------------| ---------| ------------- |
-| One                | Two               | Three          | Four                |
-
-| One     | Two        | Three   | Four          | 
-| ------------- |-------------| ---------| ------------- |
-| Span Across ||||
+|A|B|C|
+|---|---|---|
+|\3 XY|
+|1|1|1|
