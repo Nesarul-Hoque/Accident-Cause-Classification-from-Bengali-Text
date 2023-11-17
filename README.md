@@ -33,6 +33,10 @@ We have shown the statistical information about the samples of the dataset as fo
   </tr>
 </table>
 
-| One    | Two | Three | Four    | Five  | Six 
-| -
-| Span <td colspan=3>triple</td>  <td colspan=2>double</td>
+| One     | Two        | Three   | Four          | 
+| ------------- |-------------| ---------| ------------- |
+| One                | Two               | Three          | Four                |
+
+| One     | Two        | Three   | Four          | 
+| ------------- |-------------| ---------| ------------- |
+| Span Across ||||
