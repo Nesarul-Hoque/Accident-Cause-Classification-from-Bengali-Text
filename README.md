@@ -23,7 +23,5 @@ We have shown the statistical information about the samples of the dataset as fo
 |Others|103|946|517|26|4|9.184|
 |**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178**|
 
-|A|B|C|
-|---|---|---|
-|\2. XY|
-|1|1|1|
+|\2. spans two cols |
+| col 1 | col 2 |
