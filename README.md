@@ -32,3 +32,7 @@ We have shown the statistical information about the samples of the dataset as fo
     <td colspan="2">Three</td>
   </tr>
 </table>
+
+| One    | Two | Three | Four    | Five  | Six 
+| -
+| Span <td colspan=3>triple</td>  <td colspan=2>double</td>
