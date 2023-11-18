@@ -23,6 +23,9 @@ We have shown the statistical information about the samples of the dataset as fo
 |Others|103|946|517|26|4|9.184|
 |**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178**|
 
-| A | simple | table | row |
-| And | another | table | row |
-| With an | | empty | cell |
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
