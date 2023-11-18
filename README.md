@@ -24,6 +24,6 @@ We have shown the statistical information about the samples of the dataset as fo
 |**For Entire Dataset**|**3048**|**76743**|**17965**|**528**|**3**|**25.178**|
 
 | One    | Two | Three | Four    | Five  | Six | 
-| - |
+| --- | --- | --- | --- | --- | --- |
 | Span <td colspan=3>triple</td>  <td colspan=2>double</td>|
 
